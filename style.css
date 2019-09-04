@@ -1,0 +1,46 @@
+div { text-align: center;
+    border: 5px solid darkturquoise;
+    width: 600px;
+    overflow: hidden;
+    background-image: url(https://media3.giphy.com/media/HtChzyVdbvyO4/source.gif);
+                     
+}
+@font-face {
+    font-family: 'minecrafterregular';
+    src: url('minecrafter.reg-webfont.woff2') format('woff2'),
+         url('minecrafter.reg-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+h1 {
+    font-family: 'minecrafterregular'; 
+    font-weight:normal;
+    font-style:normal;
+    font-size: 80px
+}
+
+h3 {
+    font-family: 'minecrafterregular'; 
+    font-weight:normal;
+    font-style:normal;
+    font-size: 45px
+    }
+p {  font-family: 'minecrafterregular'; 
+    font-weight:normal;
+    font-style:normal;
+    font-size: 15px
+    }
+H2 { font-family: 'minecrafterregular'; 
+    font-weight:normal;
+    font-style:normal;
+    font-size: 65px
+
+}
+img {
+    width: 60px
+}
+
+#reward{
+    width: 200px;
+}
